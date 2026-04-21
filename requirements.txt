@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+networkx
+pgvector
+psycopg2-binary
+sqlalchemy
+python-dotenv
+spacy
